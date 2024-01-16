@@ -1,0 +1,4 @@
+openai~=1.7.2
+chromadb~=0.4.22
+streamlit~=1.30.0
+sentence-transformers~=2.2.2
